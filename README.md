@@ -1,9 +1,18 @@
 # Deep Learning Based Intrusion Detection System: Software Defined Network
 
-### Dataset used: KDDCup '99' and NSL-KDD
+# Abstract
+Software-defined Networking (SDN) is the key catalyst in the next-generation network. Cloud computing has shown rapid growth due to the development of SDN. Due to the growth in security difficulties and threats, SDN networks will have new security issues to overcome, and a new layer of security procedures, such as intrusion detection systems (IDS), is required. Nowadays, web services are flexible, economical, and user-friendly. Although this may be true, they still seem to be more susceptible to security issues than legacy systems. Therefore, SDN architecture also incorporates several machine learning methods to find classify malicious attacks and legitimate traffic. We include a rigorous study of the current strategies for malicious traffic identification and we define the classical machine learning method's shortcomings, and a deep learning technique is also being investigated to reach higher levels of efficiency and accuracy. This article explores SDN security and IDS about security concerns. A dataset of IDS, publicly accessible, KDD-CUP99, and NSL-KDD Dataset are used to determine the possible behaviour of security flaws.
 
-DOI: [10.1109/ASIANCON51346.2021.9544913](https://doi.org/10.1109/ASIANCON51346.2021.9544913)
+# Conference:
+2021 Asian Conference on Innovation in Technology (ASIANCON). 
 
+# Conference Date:
+27-29 August 2021
+
+# DOI: 
+[10.1109/ASIANCON51346.2021.9544913](https://doi.org/10.1109/ASIANCON51346.2021.9544913)
+
+# Dataset used: KDDCup '99' and NSL-KDD
 KDDCup '99': http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html
 
 NSL-KDD: http://www.unb.ca/cic/datasets/nsl.html
